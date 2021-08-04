@@ -1,4 +1,6 @@
-# D3: Data-Driven Documents
+Just a place to store a d3 project that I used to learn D3.
+
+<!-- # D3: Data-Driven Documents
 
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
@@ -55,3 +57,4 @@ You can also require individual modules and combine them into a `d3` object usin
 ```js
 var d3 = Object.assign({}, require("d3-format"), require("d3-geo"), require("d3-geo-projection"));
 ```
+ -->
